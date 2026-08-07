@@ -30,12 +30,19 @@ During the experiments, increasing the amount of retrieved context generally pro
 
 ## Technologies
 
+## Technologies
+
 - Python
-- Jupyter Notebook / Google Colab
-- Retrieval-Augmented Generation
-- Large Language Models
-- Text Embeddings
-- Semantic Search
+- PyTorch
+- SentenceTransformers
+- `all-mpnet-base-v2`
+- Hugging Face Transformers
+- Google Gemma 7B Instruct
+- BitsAndBytes 4-bit quantization
+- PyMuPDF
+- pandas
+- NumPy
+- Google Colab
 
 ## Project File
 
