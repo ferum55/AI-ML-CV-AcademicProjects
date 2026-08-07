@@ -10,7 +10,7 @@ The repository includes practical work with RAG pipelines, recurrent neural netw
 |---|---|---|
 | [RAG Pipeline](./Generative-AI/RAG-Pipeline) | Local Retrieval-Augmented Generation pipeline for question answering over PDF documents using embeddings, semantic retrieval and LLM-based generation. | Python, RAG, LLMs, Embeddings |
 | [PyTorch LSTM Music Generation](./Deep-Learning/PyTorch-RNN-Music-Generation) | Recurrent neural network trained to generate music sequences in ABC notation, including experiments with model and training hyperparameters. | Python, PyTorch, RNN |
-| [HLOC Structure from Motion](./Computer-Vision/HLOC-Structure-from-Motion) | Structure-from-Motion and visual localization pipeline using a custom indoor image dataset and different local feature configurations. | Python, HLOC, SuperPoint, DISK |
+| [HLOC Structure from Motion](./Computer-Vision/HLOC-Structure-from-Motion) | Structure-from-Motion and visual localization pipeline on a custom indoor image dataset using DISK and LightGlue. | Python, HLOC, DISK, LightGlue |
 | [YOLOv4 Object Detection](./Computer-Vision/YOLOv4-Object-Detection) | Object detection using a pretrained YOLOv4 model with OpenCV DNN, including preprocessing, inference and Non-Maximum Suppression. | Python, OpenCV, YOLOv4 |
 | [OpenCV Coursework](./Computer-Vision/OpenCV) | Practical computer vision tasks covering image processing, segmentation, feature extraction, matching and video analysis. | Python, OpenCV, NumPy |
 
