@@ -30,8 +30,6 @@ During the experiments, increasing the amount of retrieved context generally pro
 
 ## Technologies
 
-## Technologies
-
 - Python
 - PyTorch
 - SentenceTransformers
